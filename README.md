@@ -1,7 +1,7 @@
 # NYC Taxi Trip Data Analysis with PySpark
 
 ## Overview
-This project analyzes NYC Taxi Trip Record Data using PySpark to uncover patterns in passenger behavior, fare economics, and geospatial demand hotspots. The analysis includes temporal trends, machine learning (trip duration prediction), and comparisons between weekdays/weekends.
+This project analyzes NYC Taxi Trip Record Data using PySpark to uncover patterns in passenger behavior, fare economics, and geospatial demand hotspots. The analysis includes temporal trends, and comparisons between weekdays/weekends.
 
 ---
 
